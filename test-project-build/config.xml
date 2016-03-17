@@ -46,7 +46,7 @@
   <disableTriggerDownstreamProjects>false</disableTriggerDownstreamProjects>
   <blockTriggerWhenBuilding>true</blockTriggerWhenBuilding>
   <settings class="jenkins.mvn.FilePathSettingsProvider">
-    <path>/Users/adamdavis/.m2/settings_ci.xml</path>
+    <path>/Users/mvemur001c/.m2/settings_ci.xml</path>
   </settings>
   <globalSettings class="jenkins.mvn.DefaultGlobalSettingsProvider"/>
   <reporters/>
