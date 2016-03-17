@@ -8,7 +8,7 @@
     <configVersion>2</configVersion>
     <userRemoteConfigs>
       <hudson.plugins.git.UserRemoteConfig>
-        <url>https://github.com/adamsdavis1976/mule-test.git</url>
+        <url>https://github.com/vmadhuri4990/git_demo2.git</url>
         <credentialsId>103e9ab4-5a10-4541-ab8b-98fac6fb5ba8</credentialsId>
       </hudson.plugins.git.UserRemoteConfig>
     </userRemoteConfigs>
